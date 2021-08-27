@@ -6,7 +6,7 @@ root = Tk()
 # img = Image.open('img.png')
 # img.show()
 
-img = ImageTk.PhotoImage(Image.open('img.png'))
+img = ImageTk.PhotoImage(Image.open('img/img1.jpg'))
 lb = Label(image=img)
 lb.pack()
 
