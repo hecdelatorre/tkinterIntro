@@ -1,4 +1,4 @@
-from tkinter import Tk, IntVar, Radiobutton, Label, StringVar
+from tkinter import Tk, Radiobutton, Label, StringVar
 
 root = Tk()
 root.title('Radio Button')
